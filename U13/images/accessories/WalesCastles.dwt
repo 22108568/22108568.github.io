@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html dir="ltr">
+
+<head>
+<meta content="en-gb" http-equiv="Content-Language">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<!-- #BeginEditable "doctitle" -->
+<title>Welsh Castles</title>
+<!-- #EndEditable -->
+<style type="text/css">
+.body {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: justify;
+	margin-right: auto;
+	margin-left: auto;
+	width: 850px;
+}
+.navigationBar {
+	float: right;
+}
+h1 {
+	font-family: "Goudy Old Style";
+	color: #026633;
+}
+h3 {
+	color: #02361C;
+}
+</style>
+</head>
+
+<p><img alt="Castles banner" height="125" src="images/banner.jpg" width="850"></p>
+
+<p><span class="navigationBar"><a href="index.htm">Homepage</a> -
+<a href="beaumaris.htm">Beaumaris</a> - <a href="caernarfon.htm">Caernarfon</a> 
+- <a href="conway.htm">Conway</a> - <a href="dinasbran.htm">Dinas Bran</a> -
+<a href="harlech.htm">Harlech</a> -
+<a href="file://G-DATA-2012/G_Students/22108568/Documents/L2%20BTEC/Unit%2013-Website%20Development/Wales_Castles/timeline.htm">
+Timeline</a></span></p>
+
+<p><br></p>
+
+<body class="body">
+
+<!-- #BeginEditable "body" -->
+
+<p>Content here</p>
+
+<!-- #EndEditable -->
+
+<p>&nbsp;</p>
+
+</body>
+
+</html>
