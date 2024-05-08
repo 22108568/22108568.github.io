@@ -63,7 +63,7 @@ body{
   right: -70%; /* Initially hidden */
   height: 15%;
   width: 250px;
-  transition: right 1s ease;
+  transition: right 0.5s ease;
   display: flex;
   justify-content: flex-end;
   align-items: center;
